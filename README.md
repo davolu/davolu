@@ -19,6 +19,15 @@
   <a href="https://agentdocker.io">
     <img src="https://img.shields.io/badge/AgentDocker.io-8B5CF6?style=for-the-badge&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@AgenticAIHub1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@oluyaled">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://davolu.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://github.com/davolu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -32,7 +41,9 @@
 
 I'm an **AI/ML engineer specialising in agentic AI and LLM systems**, with **12+ years of software engineering** behind me. I design autonomous agents that plan, use tools and finish real tasks, and I train **small, fast decision models** that take repeated decisions off expensive LLM calls.
 
-I've worked as an AI contractor for a company in the **Google for Startups Accelerator: AI**, consulted in data science for startups and organisations including the **United Nations**, and hold a degree in **Systems Engineering from Middlesex University London**.
+📘 I'm the author of [**A-Z of Agentic AI: From first principles to production**](https://535214083743.gumroad.com/l/qnjoqo), an 865-page, hands-on guide to building, evaluating and securing AI agents.
+
+I'm **Top Rated on Upwork** (top 3% of talent). I've worked as an AI contractor for a company in the **Google for Startups Accelerator: AI**, consulted in data science for startups and organisations including the **United Nations**, and hold a degree in **Systems Engineering from Middlesex University London**.
 
 - 🤖 **Agentic AI:** autonomous, non-deterministic agents with tool use, multi-agent orchestration (coordinator/sub-agents), memory, scheduling and **MCP** client integrations
 - 🧠 **LLM engineering:** multi-model apps across Claude, GPT, Gemini, Grok and Mistral, plus RAG, prompt and context design, evals, and cost and latency control
@@ -86,9 +97,12 @@ I've worked as an AI contractor for a company in the **Google for Startups Accel
 
 <!-- ===================== WRITING ===================== -->
 
-### ✍️ Writing
+### 📚 Book, Videos & Writing
 
-I write about building agents and decision models in production, including the *Lessons from Building AgentDocker.io* series. <!-- Add your Medium profile link here -->
+- 📘 **Book:** [A-Z of Agentic AI: From first principles to production](https://535214083743.gumroad.com/l/qnjoqo), 865 pages on building, evaluating and securing AI agents
+- 📺 **YouTube:** [Agentic AI Hub](https://www.youtube.com/@AgenticAIHub1), with tutorials on agents and decision models
+- ✍️ **Medium:** [@oluyaled](https://medium.com/@oluyaled), including the *Lessons from Building AgentDocker.io* series
+- 🤗 **Hugging Face:** [huggingface.co/davolu](https://huggingface.co/davolu)
 
 <!-- ===================== GITHUB STATS ===================== -->
 
