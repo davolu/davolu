@@ -79,8 +79,10 @@ I've worked as an AI contractor for a company in the **Google for Startups Accel
 | [**AgentDocker**](https://agentdocker.io) · [code](https://github.com/davolu/personal-assistant) | An autonomous AI agent platform: multi-model (Claude, GPT, Gemini, Grok, Mistral), tool use, MCP connections, scheduled agent runs and a cloud desktop. |
 | [**Emotion-S1**](https://huggingface.co/davolu/emotion-s1) · [code](https://github.com/davolu/decision-model-vs-llm-emotion-s1) | A ModernBERT emotion decision model. On held-out data from its own domain it beats Claude, GPT and Jev, at about 41 ms per call on CPU and $0 per call. |
 | [**Agentic-Architecture-Orchestration**](https://github.com/davolu/Agentic-Architecture-Orchestration) | Agentic loops, coordinator/sub-agent (hub-and-spoke) patterns, session state, task decomposition and workflow enforcement. |
-| [**LangchainAgentPDFCSVChat**](https://github.com/davolu/LangchainAgentPDFCSVChat) | Chat over your PDFs and CSVs using a LangChain agent. |
-| [**OpenCV Face Detection**](https://github.com/davolu/python-opencv-ai-deeplearning-face-detection) | Deep-learning facial recognition built with Python and OpenCV. |
+| [**agentic-architect-skill**](https://github.com/davolu/agentic-architect-skill) | A Claude Code skill that turns a plain-language brief into a production-ready agent architecture. It picks the right patterns (orchestrator-worker, routing, evaluator-optimizer) and draws the full system as a diagram in Miro. |
+| [**NobleAgent**](https://github.com/davolu/NobleAgent) | A TypeScript framework for customer-safe chat agents: cited RAG, durable memory, hard cost budgets and human-in-the-loop approvals in a few chained lines. |
+| [**GrantScout**](https://github.com/davolu/GrantScout-autonomous-research-agent) | An autonomous research agent that finds nonprofit grants daily, scores fit, and emails a ranked digest with deadlines and apply links. |
+| [**ColdOpen Trailer Agent**](https://github.com/davolu/coldopen-trailer-agent) | An AI agent that watches a long video or podcast, finds the most gripping moments, and cuts a captioned cold-open trailer and vertical Shorts. |
 
 <!-- ===================== WRITING ===================== -->
 
